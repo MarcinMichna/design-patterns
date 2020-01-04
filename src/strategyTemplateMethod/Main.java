@@ -1,4 +1,4 @@
-package StrategyTemplateMethod;
+package strategyTemplateMethod;
 
 public class Main
 {

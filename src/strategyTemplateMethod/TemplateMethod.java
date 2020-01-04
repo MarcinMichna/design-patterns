@@ -1,4 +1,4 @@
-package StrategyTemplateMethod;
+package strategyTemplateMethod;
 
 public abstract class TemplateMethod implements Strategy
 {
